@@ -31,5 +31,10 @@ CRUD 실습 : https://docs.google.com/presentation/d/1asseIeW2bB0sUSlYN3cPtzrQC0
 
 SQL 강의 데이터1 : https://drive.google.com/file/d/1M7FJzRK-qxZWG26gbLnTC7_ed7BQk3Au/view?usp=sharing
 
+문자열 실습 : https://docs.google.com/presentation/d/1KDGanQPmG1V43rGJbqK8atGsXtkXNinWFPVxCXoaz5o/edit?usp=sharing
+
+CRUD + 문자열 실습 : https://docs.google.com/presentation/d/1h44vDCHGxEmuI-43CfwKfI3DP2-eGFGt_2yYZD304_8/edit?usp=sharing
+
+SQL 강의 데이터2 : https://drive.google.com/file/d/1q2Lm-BhpwF7S_5Cwskqv2SgHXkiFNug-/view?usp=sharing
 
 
