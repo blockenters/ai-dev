@@ -50,3 +50,6 @@ orders 데이터 : https://drive.google.com/file/d/11yC1Y6osg1TtuhEeXXjD-vkWNJmm
 MySQL date time 레퍼런스 페이지 : https://www.tutorialspoint.com/mysql/mysql-date-time-functions.htm
 
 시간처리 실습 : https://docs.google.com/presentation/d/1672Km9BnowQX3633UJUQw_0qqwEkR9t-06zKDHWX8FQ/edit?usp=sharing
+
+조인이란 : https://docs.google.com/presentation/d/1HuOHcVFWh31LloJxWuRyQd2YqZj4XcouQQWsYiQPx-w/edit?usp=sharing
+
