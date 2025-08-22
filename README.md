@@ -4,7 +4,7 @@
 
 이메일 : blockenters@gmail.com
 
-1회~6회까지 수강평 리뷰 : https://hrd.work24.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20210000328553&tracseTme=6&trainstCstmrId=500020041301&crseTracseSe=C0061&pageId=#undefined
+1회~6회까지 수강평 리뷰(7회차는 제가 강의하지 않았습니다) : https://hrd.work24.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20210000328553&tracseTme=6&trainstCstmrId=500020041301&crseTracseSe=C0061&pageId=#undefined
 
 강의 소개 : https://docs.google.com/presentation/d/1HG2L6IK1c9UvltTcgvJ-POP9aaPFaj1zkibSZlw7OJQ/edit?usp=sharing 
 
