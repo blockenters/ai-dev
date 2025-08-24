@@ -53,7 +53,19 @@ MySQL date time 레퍼런스 페이지 : https://www.tutorialspoint.com/mysql/my
 
 시간처리 실습 : https://docs.google.com/presentation/d/1672Km9BnowQX3633UJUQw_0qqwEkR9t-06zKDHWX8FQ/edit?usp=sharing
 
+---
 
+조인이란 : https://docs.google.com/presentation/d/1HuOHcVFWh31LloJxWuRyQd2YqZj4XcouQQWsYiQPx-w/edit?usp=sharing
+
+조인 실습 데이터 1 customers : https://drive.google.com/file/d/1-vPjzkVty2qJJmb0g5qpenXUovJTP_L0/view?usp=sharing
+
+조인 실습 데이터 2 orders : https://drive.google.com/file/d/1wCw7ht_zQy5ipjJRK8NDmQHNkqjk4qLX/view?usp=sharing
+
+조인 실습 문제 1 / 2 : https://docs.google.com/presentation/d/1eCzrMuKDkNTdN8yOcpdZ3ua4xd9-pgajgMbOtVtq45w/edit?usp=sharing
+
+여러 테이블 조인 실습 : https://docs.google.com/presentation/d/1AcFQXWQf5kmVsWdKXoK40VnQPTxd4CWHE4Rjh-gakt4/edit?usp=sharing
+
+3개이상 테이블 조인용 데이터 : https://drive.google.com/file/d/1UoaKjSsF_1YoT9ERqAkVdruJG6ZxIMGM/view?usp=sharing
 
 
 
