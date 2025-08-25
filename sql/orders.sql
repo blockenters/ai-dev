@@ -519,7 +519,6 @@ insert into orders (order_date, amount, customer_id) values ('2019/12/02', 667.3
 insert into orders (order_date, amount, customer_id) values ('2020/02/01', 818.84, 53);
 insert into orders (order_date, amount, customer_id) values ('2020/02/20', 185.24, 11);
 insert into orders (order_date, amount, customer_id) values ('2019/09/14', 768.33, 82);
-insert into orders (order_date, amount, customer_id) values ('2020/03/21', 90.49, 3);
 insert into orders (order_date, amount, customer_id) values ('2020/04/15', 170.95, 29);
 insert into orders (order_date, amount, customer_id) values ('2020/06/26', 564.86, 84);
 insert into orders (order_date, amount, customer_id) values ('2019/12/04', 799.69, 96);
@@ -555,7 +554,6 @@ insert into orders (order_date, amount, customer_id) values ('2020/02/02', 281.2
 insert into orders (order_date, amount, customer_id) values ('2020/04/27', 439.79, 93);
 insert into orders (order_date, amount, customer_id) values ('2020/05/08', 215.75, 36);
 insert into orders (order_date, amount, customer_id) values ('2019/08/15', 706.78, 52);
-insert into orders (order_date, amount, customer_id) values ('2019/07/24', 307.2, 3);
 insert into orders (order_date, amount, customer_id) values ('2020/04/06', 766.54, 58);
 insert into orders (order_date, amount, customer_id) values ('2019/11/03', 649.24, 56);
 insert into orders (order_date, amount, customer_id) values ('2019/12/22', 438.11, 81);
@@ -576,7 +574,6 @@ insert into orders (order_date, amount, customer_id) values ('2019/07/14', 70.61
 insert into orders (order_date, amount, customer_id) values ('2020/02/28', 749.73, 31);
 insert into orders (order_date, amount, customer_id) values ('2019/08/09', 404.65, 23);
 insert into orders (order_date, amount, customer_id) values ('2020/05/27', 385.96, 31);
-insert into orders (order_date, amount, customer_id) values ('2020/02/08', 359.33, 3);
 insert into orders (order_date, amount, customer_id) values ('2020/05/03', 814.5, 77);
 insert into orders (order_date, amount, customer_id) values ('2019/10/08', 482.49, 13);
 insert into orders (order_date, amount, customer_id) values ('2020/06/26', 596.73, 79);
