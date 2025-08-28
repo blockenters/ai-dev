@@ -29,17 +29,19 @@ https://www.anaconda.com/download
 
 $conda create -n 가상환경이름 python=3.10
 
-$conda install pandas numpy matplotlib seaborn scikit-learn ipython jupyter
-
 ### 5. 가상환경 실행
 
 $conda activate 가상환경 이름
 
-### 6. 주피터 노트북 실행
+### 6. 데이터분석과 인공지능 관련 라이브러리 설치
+
+$conda install pandas numpy matplotlib seaborn scikit-learn ipython jupyter
+
+### 7. 주피터 노트북 실행
 
 $jupyter notebook .
 
-### 7. 가상환경 끝내기
+### 8. 가상환경 끝내기
 
 $conda deactivate
 
