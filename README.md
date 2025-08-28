@@ -14,29 +14,33 @@
 
 ---
 
-1. Chrome 설치
+## 1. Chrome 설치
+
 https://www.google.com/intl/ko/chrome/
 
 메인 브라우저로 설정!
 
-2. Miniconda 설치
+## 2. Miniconda 설치
 https://www.anaconda.com/download
 
-3. 아나콘다 프롬프트 실행
+## 3. 아나콘다 프롬프트 실행
 
-4. 파이썬 가상환경 만들기
+## 4. 파이썬 가상환경 만들기
 
 $conda create -n 가상환경이름 python=3.10
 
 $conda install pandas numpy matplotlib seaborn scikit-learn ipython jupyter
 
-5. 가상환경 실행
+## 5. 가상환경 실행
+
 $conda activate 가상환경 이름
 
-6. 주피터 노트북 실행
+## 6. 주피터 노트북 실행
+
 $jupyter notebook .
 
-7. 가상환경 나오기
+## 7. 가상환경 끝내기
+
 $conda deactivate
 
 
