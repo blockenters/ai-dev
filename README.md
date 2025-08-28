@@ -20,7 +20,7 @@ https://www.google.com/intl/ko/chrome/
 메인 브라우저로 설정!
 
 2. Miniconda 설치
-https://www.anaconda.com/products/individual
+https://www.anaconda.com/download
 
 3. 아나콘다 프롬프트 실행
 
